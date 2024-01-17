@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Fabio Fernandes ✨
 
 - 🔭 Trabalho atualmente como Recepcionista
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas e Front-end
@@ -23,3 +23,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
+
+### GitHub Activity
+
+![Snake animation](https://github.com/Fabiogmf/Fabiogmf/blob/output/github-contribution-grid-snake.svg)
