@@ -6,7 +6,7 @@
 - 📫 How to reach me: gustavjdk@gmail.com
 - 😄 Pronouns: Ele / Dele
 
-<!-- Links -->
+<!-- Links (Encontra + em dev.to)-->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_gmf/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiogmf/)
 
@@ -14,7 +14,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiogmf&show_icons=true&theme=radical)
 
 ## 📚 Learning
-<!-- Skills: Learning Languages -->
+<!-- Skills: Learning Languages (pode encontrar + no DevIcon)-->
   <div style="flex-basis: 48%;">
     <h3>Learning Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
