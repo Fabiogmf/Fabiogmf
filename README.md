@@ -1,22 +1,31 @@
-### Olá! Eu sou o Fabio Fernandes ✨
+<foreignObject>
 
-- 🔭 Trabalho atualmente como Recepcionista
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas e Front-end
-- 👯 Em busca de uma migração de carreira
-- 📫 How to reach me: gustavjdk@gmail.com
-- 😄 Pronouns: Ele / Dele
+<!-- Head Edge -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=318799&height=120&section=header"/>
 
-<!-- Links (Encontra + em dev.to)-->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_gmf/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiogmf/)
+<!-- Introdution -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabio+Fernandes;Studying+Analysis+and+Development;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- Github Fabio Contribution -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabiogmf&bg_color=B0C4DE&color=00008B&line=00008B&point=00c2eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiogmf&show_icons=true&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabiogmf&show_icons=true&count_private=true&hide_border=true&title_color=318799&icon_color=3782A8&text_color=5679AE&bg_color=ffffff" alt="Fabio Fernandes a github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogmf&layout=compact&hide_border=true&title_color=318799&text_color=318799&bg_color=ffffff" />
+</div>
 
-## 📚 Learning
+<!-- Links (Encontra + em dev.to)-->
+
+<div align="center">
+<a href="[https://www.instagram.com/fabio_gmf/]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:gustavjdk@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/fabiogmf/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
 <!-- Skills: Learning Languages (pode encontrar + no DevIcon)-->
+### <font color="318799"> Learning Languages </font>
   <div style="flex-basis: 48%;">
-    <h3>Learning Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,6 +33,9 @@
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
 
-<br/>
 
-![Snake animation](https://github.com/Fabiogmf/Fabiogmf/blob/output/github-contribution-grid-snake.svg)
+<!-- Foot Edge -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=318799&height=120&section=footer"/>
+
+</foreignObject>
+
